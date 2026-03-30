@@ -1,0 +1,7 @@
+{
+  "prompt": "Aerial top-down view of a snowy mountain landscape with two distinct human walking paths in deep snow. On the left: a highly chaotic, deeply carved footprint path zigzagging and looping around every small obstacle. On the right: a clean, mostly straight human footprint path cutting directly through open snow. Photorealistic aerial photograph, natural winter sunlight, cinematic quality, no text, no labels.",
+  "model": "Grok Imagine",
+  "concept": "overfitting",
+  "metaphor": "A chaotic footprint trail that loops around every pebble and shrub represents noise-fitting; the clean straight trail alongside it represents true generalization.",
+  "publish_email": true
+}
